@@ -1,0 +1,5 @@
+{
+  "name": "Financial Journey",
+  "description": "A professional double-entry personal ledger application with account management, transaction posting, and real-time financial reporting.",
+  "requestFramePermissions": []
+}
